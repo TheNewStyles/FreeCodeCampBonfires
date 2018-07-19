@@ -21,3 +21,4 @@ function translatePigLatin(str) {
     }    
     i++;
   }
+}
