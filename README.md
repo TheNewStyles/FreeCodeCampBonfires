@@ -5,6 +5,7 @@
 - Intermdiate Algorithm Scripting
 - Advanced Algorithm Scripting
 - ES6
+- Regex
 - Coding interview Prep
 
 ### my first solutions contained a readme next to each solution. I have started commenting out the readme and adding to a single file in the newer solutions.
