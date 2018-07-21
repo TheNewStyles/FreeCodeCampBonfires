@@ -40,3 +40,23 @@
 // myNestedArray should contain exactly one occurrence of the string "deeper" on an array nested 4 levels deep
 // myNestedArray should contain exactly one occurrence of the string "deepest" on an array nested 5 levels deep
 
+let myNestedArray = [
+    // change code below this line
+    ['unshift', false, 1, 2, 3, 'complex', 'nested'],
+    [ 
+      ['deep'],
+      [
+        ['deeper'],
+        [
+          ['deepest'],        
+        ]
+      ]   
+    ],
+    ['loop', 'shift', 6, 7, 1000, 'method'],
+    ['concat', false, true, 'spread', 'array'],
+    ['mutate', 1327.98, 'splice', 'slice', 'push'],
+    ['iterate', 1.3849, 7, '8.4876', 'arbitrary', 'depth']
+    // change code above this line
+  ];
+  
+  console.log(myNestedArray);
