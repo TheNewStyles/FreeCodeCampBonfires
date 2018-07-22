@@ -6,6 +6,7 @@
 - Coding interview Prep
 - Debugging
 - ES6
+- Functional Programming
 - Intermdiate Algorithm Scripting
 - Algorithm and Data structure projects
 - Object Oriented Programming
