@@ -11,6 +11,7 @@
 - Algorithm and Data structure projects
 - Object Oriented Programming
 - React
+- Redux
 - Regex
 - Sass
 
