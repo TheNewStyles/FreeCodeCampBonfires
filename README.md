@@ -10,7 +10,8 @@
 - Intermdiate Algorithm Scripting
 - Algorithm and Data structure projects
 - Object Oriented Programming
+- React
 - Regex
-
+- Sass
 
 ### my first solutions contained a readme next to each solution. I have started commenting out the readme and adding to a single file in the newer solutions.
