@@ -12,6 +12,7 @@
 - Object Oriented Programming
 - React
 - Redux
+- React and Redux
 - Regex
 - Sass
 
