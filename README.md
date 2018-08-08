@@ -1,11 +1,14 @@
 # Tyler Peterson's FreeCodeCamp Solutions
 
 ## I have completed the certificates for
+
 - Responsive Web Design
 - JavaScript Algorithms And Data Structures
 - Front End Development Certification
+- Front End Libraries Certification
 
 ## All of my solutions for :
+
 - Basic Algorithm Scripting
 - Basic Data Structures
 - Coding interview Prep
