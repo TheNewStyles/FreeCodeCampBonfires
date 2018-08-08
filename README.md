@@ -13,6 +13,7 @@
 - Basic Data Structures
 - Basic Node And Express
 - Coding interview Prep
+- Data Visualization with D3
 - Debugging
 - ES6
 - Functional Programming
