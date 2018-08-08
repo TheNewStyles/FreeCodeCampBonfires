@@ -11,12 +11,14 @@
 
 - Basic Algorithm Scripting
 - Basic Data Structures
+- Basic Node And Express
 - Coding interview Prep
 - Debugging
 - ES6
 - Functional Programming
 - Intermdiate Algorithm Scripting
-- Algorithm and Data structure projects
+- JavaScript Algorithm and Data structure projects
+- Managing Packages With Npm
 - Object Oriented Programming
 - React
 - Redux
